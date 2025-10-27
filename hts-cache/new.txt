@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-14:08:42	49490/49490	---MCZ	200	added ('OK')	text/html	date:Mon,%2027%20Oct%202025%2008:38:42%20GMT	https://itsrijurajr-kbdty.wordpress.com/	/home/rijuraj/rrr-bakery-html/itsrijurajr-kbdty.wordpress.com/index.html	(from )
-14:08:42	105/105	---MCZ	200	added ('OK')	text/plain	date:Mon,%2027%20Oct%202025%2008:38:42%20GMT	https://itsrijurajr-kbdty.wordpress.com/robots.txt		(from )
